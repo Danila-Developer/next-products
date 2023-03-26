@@ -1,0 +1,948 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 2,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 3,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 4,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 6,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 8,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 9,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 10,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 11,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 12,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 13,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 14,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 15,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 16,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 17,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 18,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 19,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 20,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 21,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 22,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 23,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 24,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 25,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 26,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 27,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 28,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 29,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 30,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 31,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 32,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 33,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 34,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 35,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 36,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 37,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 38,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 39,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 40,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 41,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 42,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 43,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 44,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 45,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 46,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 47,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 48,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 49,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 50,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 51,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 52,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 53,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 54,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 55,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 56,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 57,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 58,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 59,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 60,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 61,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 62,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 63,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 64,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 65,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 66,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 67,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 68,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 69,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 70,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 71,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 72,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 73,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 74,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 75,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 76,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 77,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 78,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 79,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 80,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 81,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 82,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 83,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 84,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 85,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 86,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 87,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 88,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 89,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 90,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 91,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 92,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 93,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 94,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 95,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 96,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 97,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 98,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 99,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 100,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 101,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 102,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 103,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 104,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 105,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 106,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 107,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 108,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 109,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 110,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 111,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 112,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 113,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 114,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 115,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 116,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 117,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 118,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 119,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 120,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 121,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 122,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 123,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 124,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 125,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 126,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 127,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 128,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 129,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 130,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 131,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 132,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 133,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 134,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 135,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 136,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6524338495.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 137,
+			"name": "Футболка Русская Сувенирная Компания X-mas (Скрудж МакДак Счастливого Рождества)",
+			"brand": "Русская Сувенирная Компания",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-i/wc1000/6547555338.jpg"
+		},
+		{
+			"id": 138,
+			"name": "Футболка VJFAMILY",
+			"brand": "VJFAMILY",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-2/wc1000/6533947646.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 139,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-o/wc1000/6090103812.jpg"
+		},
+		{
+			"id": 140,
+			"name": "Футболка Макс Экстрим",
+			"brand": "Макс Экстрим",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-4/wc1000/6036149152.jpg",
+			"badge": "new"
+		},
+		{
+			"id": 141,
+			"name": "Футболка",
+			"brand": 43700,
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-b/wc1000/6549220151.jpg"
+		},
+		{
+			"id": 142,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "http://localhost:4200/images/7.jpg",
+			"badge": "top"
+		},
+		{
+			"id": 143,
+			"name": "Футболка",
+			"brand": "Bozhou Nuqia Trading Co., Ltd",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-0/wc1000/6468789120.jpg"
+		},
+		{
+			"id": 144,
+			"name": "Футболка Базовая",
+			"brand": "Fila&acus",
+			"imageUrl": "https://ir.ozone.ru/s3/multimedia-3/wc1000/6595202739.jpg",
+			"badge": "new"
+		}
+	]
+}

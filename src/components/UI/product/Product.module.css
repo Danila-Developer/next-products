@@ -1,0 +1,52 @@
+.product {
+    background-color: white;
+    box-shadow: 4px 4px 5px 1px rgba(0, 0, 0, 0.05);
+    border-radius: 0.4rem;
+    overflow: hidden;
+    /*width: 12rem;*/
+}
+
+.productImage {
+    display: block;
+    height: 9rem;
+    object-fit: contain;
+}
+
+.productImageWrapper {
+    height: 9rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.productInfo {
+    padding: 0.4rem;
+    line-height: 0.9rem;
+}
+
+.productName {
+    font-size: 0.8rem;
+    font-weight: 400;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.productBadge {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 300;
+    background-color: #360ED9;
+    border-radius: 0.6rem;
+    padding: 0.1rem 0.4rem;
+    color: white;
+}
+
+.productBrand {
+    font-weight: 300;
+    color: #8B8B8B;
+    font-size: 0.7rem;
+    margin-top: 0.2rem;
+}
